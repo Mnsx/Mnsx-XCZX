@@ -3,6 +3,16 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/xczx_base/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xczx_base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xczx_content/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xczx_content/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xczx_content/xczx_content_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xczx_content/xczx_content_api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xczx_content/xczx_content_model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xczx_content/xczx_content_model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xczx_content/xczx_content_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xczx_content/xczx_content_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xczx_generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xczx_generator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xczx_parent/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xczx_parent/src/main/resources" charset="UTF-8" />
   </component>

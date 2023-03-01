@@ -5,6 +5,12 @@
       <list>
         <option value="$PROJECT_DIR$/xczx_base/pom.xml" />
         <option value="$PROJECT_DIR$/xczx_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/xczx_content/pom.xml" />
+        <option value="$PROJECT_DIR$/xczx_content/xczx_content_model/pom.xml" />
+        <option value="$PROJECT_DIR$/xczx_content/xczx_content_api/pom.xml" />
+        <option value="$PROJECT_DIR$/xczx_content/xczx_content_service/pom.xml" />
+        <option value="$PROJECT_DIR$/xczx-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/xczx_generator/pom.xml" />
       </list>
     </option>
   </component>
