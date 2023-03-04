@@ -1,0 +1,12 @@
+server:
+  servlet:
+    context-path: /system
+  port: 63110
+#微服务配置
+spring:
+  application:
+    name: system-service
+
+# 日志文件配置路径
+logging:
+  config: classpath:log4j2-dev.xml
